@@ -9,8 +9,9 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - uses: gautamkrishnar/blog-post-workflow@master
+      - uses: ramenjunkie/blog-post-workflow@master
         with:
+          comment_tag_name: "BLOG-POST-LIST"
           feed_list: "https://bloggingintensifies.com/feed"
 Footer
 © 2022 GitHub, Inc.
