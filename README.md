@@ -18,9 +18,18 @@ Hobby level coder mostly, I dabble in a lot of different languages.  My earliest
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...more blog articles](https://bloggingintensifies.com)
-
+<!--
 ---
 
+## &#x1f4c8; My GitHub Stats
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ramenjunkie&hide=java,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Josh's GitHub stats](https://github-readme-stats.vercel.app/api?username=ramenjunkie&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+-->
 
 <!--
 **RamenJunkie/RamenJunkie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
