@@ -5,7 +5,7 @@
 -->
 Hobby level coder mostly, I dabble in a lot of different languages.  Most of my work is in web based coding (HTML, CSS, SQL, PHP stack) and various scripting (Python, Bash/Shell).
 
-[Lameazoid.com](https:lameazoid.com)  
+[Lameazoid.com](https://lameazoid.com)  
 [BlueSky](https://bsky.app/profile/ramenjunkie.bsky.social)  
 [Mastodon](https://retro.pizza/@ramenjunkie)  
 ---
