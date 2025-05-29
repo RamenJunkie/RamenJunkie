@@ -8,7 +8,16 @@ Hobby level coder mostly, I dabble in a lot of different languages.  My earliest
 
 🧰 Toolbox
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" alt="Arduino Logo" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" alt="Bash Logo" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML Logo" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/msdos/msdos-original.svg" alt="DOS Logo" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" alt="Photoshop Logo" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" alt="PHP Logo" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python Logo" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg" alt="Raspberry Pi Logo" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/ssh/ssh-original.svg" alt="SSH Logo" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" alt="Ubuntu Logo" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="VSCode Logo" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg" alt="Wordpress Logo" width="50" height="50"/> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML Logo" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" alt="Photoshop Logo" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" alt="PHP Logo" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python Logo" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg" alt="Raspberry Pi Logo" width="50" height="50"/>  <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" alt="Ubuntu Logo" width="50" height="50"/>  <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg" alt="Wordpress Logo" width="50" height="50"/> 
+
+<!--
+EXTRA
+<img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" alt="Arduino Logo" width="50" height="50"/>  - Arduino
+<img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" alt="Bash Logo" width="50" height="50"/>  - Bash
+<img src="https://github.com/devicons/devicon/blob/master/icons/msdos/msdos-original.svg" alt="DOS Logo" width="50" height="50"/>  - DOS
+<img src="https://github.com/devicons/devicon/blob/master/icons/ssh/ssh-original.svg" alt="SSH Logo" width="50" height="50"/> - SSH
+<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="VSCode Logo" width="50" height="50"/> - VSCode
+-->
 
 ---
 <!--
