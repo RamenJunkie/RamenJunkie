@@ -3,7 +3,11 @@
 ![Twitter Follow](https://img.shields.io/twitter/follow/RamenJunkie?style=social)
 ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCc2DFpluNXdO72AAbpAZ8dA?style=social)
 -->
-Hobby level coder mostly, I dabble in a lot of different languages.  My earliest coding was in Basic back in the 80s, some web coding and HTML in the 90s, some C and C++ in College.  Most of my work is in web based coding (HTML, CSS, SQL, PHP stack) and various scripting (Python, Bash/Shell).
+Hobby level coder mostly, I dabble in a lot of different languages.  Most of my work is in web based coding (HTML, CSS, SQL, PHP stack) and various scripting (Python, Bash/Shell).
+
+[Lameazoid.com](https:lameazoid.com)  
+[BlueSky](https://bsky.app/profile/ramenjunkie.bsky.social)  
+[Mastodon](https://retro.pizza/@ramenjunkie)  
 ---
 
 🧰 Toolbox
